@@ -4,6 +4,12 @@
 **shubhamagarwal/shubhamagarwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+### 📫 &nbsp; How to reach me: 
+[![][b-linkedin]](https://www.linkedin.com/in/shubham-agarwal-921b4b19/)
+[![][b-youtube]](https://www.youtube.com/channel/UCJKJTVeQKSmvSUA4kOxZCPg)
+[![][b-gmail]](mailto:shubham150@gmail.com)
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Full Stack Technologies
@@ -12,13 +18,5 @@ Here are some ideas to get you started:
 
 
 
-### 📫 &nbsp; How to reach me: 
-[![][b-linkedin]](https://www.linkedin.com/in/shubham-agarwal-921b4b19/)
-[![][b-youtube]](https://www.youtube.com/channel/UCJKJTVeQKSmvSUA4kOxZCPg)
-[![][b-gmail]](mailto:shubham150@gmail.com)
 
-### 📫 &nbsp; How to reach me: 
-[![][b-linkedin]](https://www.linkedin.com/in/tripathiswapnil)
-[![][b-instagram]](https://www.instagram.com/iamswapnilgeek)
-[![][b-website]]()
-[![][b-gmail]](mailto:nswapt@gmail.com)
+
