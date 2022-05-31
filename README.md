@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 
 
 ### 📫 &nbsp; How to reach me: 
-[![][b-linkedin]]([https://www.linkedin.com/in/shubham-agarwal-921b4b19/])
-[![][b-youtube]]([https://www.youtube.com/channel/UCJKJTVeQKSmvSUA4kOxZCPg])
+[![][b-linkedin]](https://www.linkedin.com/in/shubham-agarwal-921b4b19/)
+[![][b-youtube]](https://www.youtube.com/channel/UCJKJTVeQKSmvSUA4kOxZCPg)
 [![][b-gmail]](mailto:shubham150@gmail.com)
