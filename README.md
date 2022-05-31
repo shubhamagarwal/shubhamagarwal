@@ -16,3 +16,9 @@ Here are some ideas to get you started:
 [![][b-linkedin]](https://www.linkedin.com/in/shubham-agarwal-921b4b19/)
 [![][b-youtube]](https://www.youtube.com/channel/UCJKJTVeQKSmvSUA4kOxZCPg)
 [![][b-gmail]](mailto:shubham150@gmail.com)
+
+### 📫 &nbsp; How to reach me: 
+[![][b-linkedin]](https://www.linkedin.com/in/tripathiswapnil)
+[![][b-instagram]](https://www.instagram.com/iamswapnilgeek)
+[![][b-website]]()
+[![][b-gmail]](mailto:nswapt@gmail.com)
