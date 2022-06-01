@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 <!-- Badge Links -->
 [b-linkedin]: https://raster.shields.io/badge/shubham-agarwal-0077B5?style=flat-square&logo=linkedin
+[b-gmail]: https://raster.shields.io/badge/shubham150-E4405F?style=flat-square&logo=gmail&logoColor=white
+[b-youtube]: https://raster.shields.io/badge/ShubhamAgarwal-E4405F?style=flat-square&logo=youtube&logoColor=white
 
 
 
