@@ -24,13 +24,6 @@ A Full Stack Developer with around 10 years of related experience, a wide range 
 ![][b-graphql]
 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Full Stack Technologies
-- 👯 I’m looking to collaborate on Front End Technologies
-- 💬 Ask me about js, reactjs.
-
-
 <!-- Badge Links -->
 [b-linkedin]: https://raster.shields.io/badge/shubham-agarwal-0077B5?style=flat-square&logo=linkedin
 [b-gmail]: https://raster.shields.io/badge/shubham150-E4405F?style=flat-square&logo=gmail&logoColor=white
