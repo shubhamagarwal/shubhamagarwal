@@ -4,6 +4,13 @@
 **shubhamagarwal/shubhamagarwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+I am Shubham Agarwal.
+- 💼  &nbsp; L4 Engineer at [EPAM Systems](https://www.epam.com/)
+- 🌱  &nbsp; Learning Python.
+
+A Full Stack Developer with around 10 years of related experience, a wide range of programming languages and utilities. Knowledge of frontend and backend development and collaborative team player with excellent technical abilities. Experience in e-commerce, publishing, enterprise and high-performance web technologies.
+
+
 ### 📫 &nbsp; How to reach me: 
 [![][b-linkedin]](https://www.linkedin.com/in/shubham-agarwal-921b4b19/)
 [![][b-youtube]](https://www.youtube.com/channel/UCJKJTVeQKSmvSUA4kOxZCPg)
